@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RotX Text Converter</string>
+
+    <string name="menu_about_text">\?</string>
+    <string name="menu_convert_text">Convert</string>
+    <string name="menu_share_text">Share</string>
+
+    <string name="aboutText">About</string>
+    <!-- -->
+    <string name="textContainerFrag_convertText">Convert</string>
+    <string name="textContainerFrag_textBodyHint">Place to convert here</string>
+
+    <string name="settingsFrag_hints">0</string>
+    <string name="settingsFrag_AlphabetHint">Custom Alphabet</string>
+    <string name="settingsFrag_settingsText">Settings</string>
+    <string name="settingsFrag_letterShiftText">Letter Shift:</string>
+    <string name="settingsFrag_numberShiftText">Number Shift:</string>
+    <string name="settingsFrag_letterShiftEnable">Shift Letters?</string>
+    <string name="settingsFrag_numberShiftEnable">Shift Numbers?</string>
+    <string name="settingsFrag_provideCustomAlphabet">Custom Alphabet?</string>
+    <!-- -->
+    <string name="about_aboutText">About</string>
+    <string-array name="about_about_listEntries">
+        <item>app</item>
+        <item>Share</item>
+    </string-array>
+    <string name="about_rotX">RotX Details</string>
+    <string-array name="about_rotX_Details_listEntries">
+        <item>What is RotX?</item>
+        <item>Letter Shifting</item>
+        <item>Number Shifting</item>
+        <item>Custom Alphabet</item>
+    </string-array>
+
+    <string name="about_aboutAppSubtitle">About App</string>
+    <string name="about_aboutAppTextIntro">RotXConvert App\n
+    \n
+    Date start: 21/04/20\n
+    Date accomplished: core: 22/04/20\n
+    Date fixed bug (u know): 28/04/20\n
+    \n
+    evnReborn\n
+    sig num des\n
+    \n
+    zvxh vf orfg tvey
+    </string>
+
+</resources>
